@@ -31,15 +31,6 @@ I specialize in [full-stack development, machine learning, UI/UX design], and I 
   - [e.g., Achieved 85% prediction accuracy]
   - [e.g., Visualized results using Matplotlib]
 
-### 3. [Project Name]
-- **Description**: [e.g., "A mobile app for local event discovery."]
-- **Technologies**: [e.g., Flutter, Firebase]
-- **Repository**: [github.com/yourusername/projectname](https://github.com/yourusername/projectname)
-- **Live Demo**: [Google Play/App Store link] (if applicable)
-- **Highlights**: 
-  - [e.g., Integrated real-time geolocation features]
-  - [e.g., Designed a clean and intuitive UI]
-
 ## Skills
 - **Languages**: [e.g., Python, JavaScript, Java]
 - **Frameworks/Tools**: [e.g., Django, React, Docker]
