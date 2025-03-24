@@ -9,7 +9,7 @@ Hi! I'm Leroy Hing, a aspiring Software Engineer passionate about building innov
 - **LinkedIn**: [linkedin.com/in/leroyhing](https://linkedin.com/in/leroyhing)
 - **Portfolio Website**: [rxkuu.carrd.co](https://rxkuu.carrd.co) (optional)
 
-I specialize in [your skills, e.g., full-stack development, machine learning, UI/UX design], and I enjoy working on projects that [describe your motivation, e.g., make a positive impact, push technological boundaries].
+I specialize in [full-stack development, machine learning, UI/UX design], and I enjoy working on projects that [pushes technological boundaries].
 
 ## Featured Projects
 
